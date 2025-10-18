@@ -1,0 +1,5 @@
+name: EnderRecipes
+version: '1.0'
+main: me.vihaanvp.enderrecipes.EnderRecipes
+api-version: '1.21'
+description: Adds custom recipes for Shulker Boxes and Elytras

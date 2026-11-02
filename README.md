@@ -1,6 +1,6 @@
 # EnderRecipes
 
-**EnderRecipes** is a flexible Minecraft Paper plugin for 1.21.8+ that adds custom crafting recipes for vanilla items like the Shulker Box and Elytra. Easily enable or disable recipes via a configuration file—no need to touch datapacks or JSON!  
+**EnderRecipes** is a flexible Minecraft Paper plugin for 1.21.11+ (Paper 26.3+) that adds custom crafting recipes for vanilla items like the Shulker Box and Elytra. Easily enable or disable recipes via a configuration file—no need to touch datapacks or JSON!  
 Built with Java and the PaperMC API.
 
 ---
